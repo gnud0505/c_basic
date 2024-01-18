@@ -1,3 +1,4 @@
+//xep hau
 #include <stdio.h>
 #define MAX 1000
 int a[MAX][MAX], visited[MAX][MAX], n;
